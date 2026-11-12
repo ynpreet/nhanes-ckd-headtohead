@@ -1,0 +1,12 @@
+group,value,n,observed_pct,mean_pred_pct,gap_pp
+sex,Male,651,18.6,16.8,1.8
+sex,Female,674,19.0,17.5,1.5
+age group,20-44,517,8.5,5.2,3.3
+age group,45-64,484,16.3,17.9,-1.6
+age group,65+,324,38.9,35.2,3.7
+survey group,Mexican American,171,14.6,15.1,-0.4
+survey group,Non-Hispanic Asian,169,16.6,15.0,1.6
+survey group,Non-Hispanic Black,305,20.7,17.8,2.9
+survey group,Non-Hispanic White,487,20.9,18.2,2.8
+survey group,Other / multi-race,75,18.7,16.5,2.2
+survey group,Other Hispanic,118,14.4,17.9,-3.5
